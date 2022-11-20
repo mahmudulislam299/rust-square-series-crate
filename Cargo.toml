@@ -2,9 +2,10 @@
 name = "sqare-series-crate"
 version = "0.1.0"
 edition = "2021"
-author = ["Mahmudul Islam <mahmudulislam299@gmail.com>"]
+authors = ["Mahmudul Islam <mahmudulislam299@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/mahmudulislam299/rust-square-series-crate"
+description = "this library will print square series of input" 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
