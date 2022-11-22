@@ -1,6 +1,6 @@
 [package]
 name = "sqare-series-crate"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2021"
 authors = ["Mahmudul Islam <mahmudulislam299@gmail.com>"]
 license = "MIT"
