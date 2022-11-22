@@ -1,4 +1,3 @@
-pub mod cube;
 
 
 /// print square series
